@@ -1,4 +1,4 @@
-# Facts Exposed
+# Facts Exposed [![Build Status](https://travis-ci.org/factsexposed/factsexposed.svg?branch=master)](https://travis-ci.org/factsexposed/factsexposed)
 
 Disseminate verboten truth.
 
